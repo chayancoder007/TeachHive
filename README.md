@@ -64,3 +64,24 @@ Frontend:
 cd frontend
 npm install
 npm start
+
+🌟 What's Unique in This Project?
+✅ Teachers can upload multiple file types to Cloudinary
+✅ File previews based on type — images, PDFs (inline), videos
+✅ Dynamic thumbnail icons
+✅ Fully responsive YouTube-like interface
+✅ Auth-protected routes for upload/view/delete
+✅ Modern UI with Tailwind + dark mode
+✅ Custom navbar drawer with logout logic
+
+🔐 Environment Variables (.env)
+Backend .env file:
+
+PORT=5000
+MONGO_URI=your_mongodb_uri
+JWT_SECRET=your_jwt_secret
+CLOUDINARY_CLOUD_NAME=your_cloud_name
+CLOUDINARY_API_KEY=your_key
+CLOUDINARY_API_SECRET=your_secret
+
+Thank you ❤️❤️❤️
